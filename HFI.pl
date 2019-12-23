@@ -1,6 +1,6 @@
 # By Zhuo CHEN, IGDB, CAS
 # Contact: zhuochen@genetics.ac.cn
-# Contact: zhuochenbioinfo@gmail.com
+# Contact: chenomics@163.com
 
 use strict;
 use warnings;
@@ -8,7 +8,7 @@ use Getopt::Long;
 
 my($genoFile,$outFile,$windowSize,$stepSize,$list1,$list2);
 
-my $usage = "\nCalculating hapPi, hapDist and HFI(Haplotype Fixation Index) to measure the differentiation genome regions between two homozygous crop (such as rice) populations.\n\n";
+my $usage = "\nCalculating hapDiv, hapDist and HFI(Haplotype Fixation Index) to measure the differentiation genome regions between two homozygous crop (such as rice) populations.\n\n";
 $usage .= "USAGE:\nperl $0 --in <geno file> --out <output file> --list1 <sample list 1> --list2 <sample list 2>\n";
 $usage .= "--geno <geno file>: a tab-deleimited file with header line. Each line consists of:\n";
 $usage .= "\t[CHROM] [POS] [REF] [ALT] [GENO 1] [GENO 2] ... [GENO n]\n";
@@ -17,7 +17,7 @@ $usage .= "\t[CHROM] names shall not contain ':'\n";
 $usage .= "--window <window size>. Default=10000\n";
 $usage .= "--step <step size>. Default=<window size>\n";
 $usage .= "--keep <keep sample list>\n";
-$usage .= "\nBy Zhuo CHEN, contact: zhuochenbioinfo\@gmail.com or zhuochen\@genetics.ac.cn\n\n";
+$usage .= "\nBy Zhuo CHEN, contact: chenomics\@163.com or zhuochen\@genetics.ac.cn\n\n";
 
 GetOptions(
 	"in=s" => \$genoFile,
