@@ -37,6 +37,10 @@ This program was designed only for populations with homozygous nature. The genot
 
 0 for reference type; 1 for alternative type; - for missing or heterozygous genotype.
 
+The input file is recommended to be created from a VCF format file and pruned with the script SNP_pruning.r2.pl
+
+`perl SNP_pruning.r2.pl --in pop.vcf --out pop.geno`
+
 # Reference:
 
 Weir BS, Cockerham CC. ESTIMATING F-STATISTICS FOR THE ANALYSIS OF POPULATION STRUCTURE. Evolution. 1984;38(6):1358–1370. doi:10.1111/j.1558-5646.1984.tb05657.x
