@@ -5,7 +5,7 @@ By Zhuo CHEN, contact: chenomics@163.com or zhuochen@genetics.ac.cn
 
 # Motivation and description:
 
-Considering the **homozygous nature** of cultivated rice, we designed a haplotype-based estimate **HFI** for genetic differentiation analysis. The design of **HFI** estimate is inspired from fixation index [Weir and Cockerham's FST](https://doi.org/10.1111/j.1558-5646.1984.tb05657.x) but with multiple major changes.
+Considering the **homozygous nature** of cultivated rice, we designed a haplotype-based estimate **HFI** for genetic differentiation analysis. The design of **HFI** estimate was inspired from fixation index [Weir and Cockerham's FST](https://doi.org/10.1111/j.1558-5646.1984.tb05657.x) but with multiple major changes.
 
 Artificial hybrid breeding had shuffled the distribution of various haplotypes in crop popuation genomes, and the **number and allele frequency of different haplotypes** in a population may be more important than the base differences between the haplotypes.
 
