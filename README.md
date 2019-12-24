@@ -11,6 +11,8 @@ HFI is based on two other haplotype-based estimates, namely hapDiv and hapDist.
 
 ![image](https://latex.codecogs.com/gif.latex?\\\hapDiv=\sum_{i=1}^{n}\sum_{j=i}^{n}x_{i}x_{j}d_{ij})
 
+![image](https://latex.codecogs.com/gif.latex?hapDiv%3D%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%5Csum_%7Bj%3Di%7D%5E%7Bn%7Dx_%7Bi%7Dx_%7Bj%7Dd_%7Bij%7D)
+
 where n is the number of haplotypes in the window; xi and xj are the allele frequency of the haplotype i and j; dij is the genetic distance between haplotype i and j. If there are any clear base difference (excluding missing genotype or heterozygous genotype) between the two haplotypes, dij will be set as 1; otherwise, it will be set as zero.
 
 ![image](https://latex.codecogs.com/gif.latex?\\\hapDist_{ab}=\frac{1}{2}\sum_{i=1}^{n}\sum_{j=1}^{n}x_{ai}x_{bj}d_{ij})
