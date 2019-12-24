@@ -9,7 +9,7 @@ Considering the homozygous nature of cultivated rice, we designed a haplotype-ba
 
 HFI is based on two other haplotype-based estimates, namely hapDiv and hapDist.
 
-* Note: The formula may not display properly on Microsoft Edge browser, if this happens, please open this page with another browser.
+* Note: Due to security settings, the formula may not display properly on Microsoft Edge or IE(version 11 and above) browsers. If this happens, please open this page with another browser.
 
 ![image](https://latex.codecogs.com/gif.latex?hapDiv=\sum_{i=1}^{n}\sum_{j=i}^{n}x_{i}x_{j}d_{ij})
 
