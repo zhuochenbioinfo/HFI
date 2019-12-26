@@ -37,7 +37,7 @@ For detailed usage:
 
 `perl HFI.pl`
 
-Input format: tab-deleimited table with header. Each line contains: chr pos geno1 geno2 ... genoX
+Input format: tab-delimited table with header. Each line contains: chr pos geno1 geno2 ... genoX
 
 This program was designed only for populations with homozygous nature. The genotype coding in the input file is:
 
