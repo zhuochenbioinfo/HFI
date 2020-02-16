@@ -1,6 +1,8 @@
 # HFI
 **Haplotype Fixation Index (HFI)** for crop populations **with homozygous nature**, such as rice.
 
+***NOTICE: The formulas and pictures in this page may not be displayed properly in some regions due to local Internet policies.***
+
 By Zhuo CHEN, contact: chenomics@163.com or zhuochen@genetics.ac.cn
 
 # Motivation and description:
@@ -12,8 +14,6 @@ Artificial hybrid breeding had shuffled the distribution of various haplotypes i
 The motivation for designing this method was to assess the **changes in the absolute value of haplotype diversity** rather than the fold-change, and ignoring the number of base differences between haplotypes.
 
 **HFI** is based on two other haplotype-based estimates, namely ***hapDiv*** (haplotype diversity) and ***hapDist*** (haplotype distance).
-
-* Note: Due to security settings, the formula may not display properly on Microsoft Edge or IE(version 11 and above) browsers. If this happens, please open this page with another browser.
 
 ![image](https://latex.codecogs.com/gif.latex?hapDiv=\sum_{i=1}^{n}\sum_{j=i}^{n}x_{i}x_{j}d_{ij})
 
