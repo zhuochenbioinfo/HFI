@@ -53,4 +53,4 @@ Weir BS, Cockerham CC. ESTIMATING F-STATISTICS FOR THE ANALYSIS OF POPULATION ST
 
 # Citation:
 
-Chen Zhuo et al. Genomic Footprints of Breeding in a Large Chinese Rice Collection. In preparation.
+**Zhuo Chen**, Xiuxiu Li, Hongwei Lu, Qiang Gao, Huilong Du, Hua Peng, Peng Qin, Chengzhi Liang. **Genomic atlases of introgression and differentiation reveal breeding footprints in Chinese cultivated rice.** Journal of Genetics and Genomics, 2020, ISSN 1673-8527, https://doi.org/10.1016/j.jgg.2020.10.006.
