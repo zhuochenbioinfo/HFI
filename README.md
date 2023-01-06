@@ -3,7 +3,7 @@
 
 ***NOTICE: The formulas and pictures in this page may not be displayed properly in some regions due to local Internet policies.***
 
-By Zhuo CHEN, contact: chenomics@163.com or zhuochen@genetics.ac.cn
+By Zhuo CHEN, contact: chenomics@163.com or zhuochen@fafu.edu.cn
 
 # Motivation and description:
 
